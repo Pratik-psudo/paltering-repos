@@ -10,7 +10,8 @@ marty
 ## 2. I own a house
 ## 3. I have children
 # You only get one shot!
-I think it's own house 👀
+I think it's own house 👀 (vSlyther)
 
-I think it's children
-married
+I think it's children (Sloc211)
+married (annie)
+Pratik you want to have a guess?
