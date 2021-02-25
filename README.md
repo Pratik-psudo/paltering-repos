@@ -5,4 +5,8 @@
 #hashtag
 ## Greetings fellow hoomans! MAK
 marty
-#fugma
+## 2 Truths, 1 Lie
+# 1. I am married
+# 2. I own a house
+# 3. I have children
+## GOODLUCK!
