@@ -9,4 +9,4 @@ marty
 ## 1. I am married
 ## 2. I own a house
 ## 3. I have children
-# GOODLUCK!
+# You only get one shot!
