@@ -1,5 +1,5 @@
 # paltering-repos
-2 truths and 1lie
+2 truths and lie
 #why are we doing this#
 #Hoyaaaaa
 #hashtag
