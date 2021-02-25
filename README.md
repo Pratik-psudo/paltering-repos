@@ -8,6 +8,7 @@ marty
 # 2 Truths, 1 Lie - MAK
 ## 1. I am married
 ## 2. I own a house
+<!-- who owns a house these days? -->
 ## 3. I have children
 # You only get one shot!
 I think it's married 👀
